@@ -215,7 +215,7 @@ input:focus {
     display: none;
   }
   .signUp {
-    height: 90%;
+    height: 70% !important;
     width: 90%;
   }
   .signUp{
