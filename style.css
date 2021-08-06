@@ -229,6 +229,10 @@ input:focus {
       padding: 0 1rem;
       text-align: center;
   }
+  .input-content input{
+      width: 100% !important;
+      height: 55% !important;
+  }
 }
 
 @media (min-width: 500px) {
