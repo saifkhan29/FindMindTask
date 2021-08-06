@@ -218,6 +218,12 @@ input:focus {
     height: 90%;
     width: 90%;
   }
+  .signUp{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
   .signUp-headings{
       margin: 1.5rem 0;
       padding: 0 1rem;
